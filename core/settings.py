@@ -43,7 +43,7 @@ if RENDER_EXTERNAL_HOSTNAME:
 # Application definition
 
 INSTALLED_APPS = [
-    'admin_modernize.apps.AdminModernizeConfig',
+    'admin_modernize_pro.apps.AdminModernizeProConfig',
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",

@@ -1,17 +1,18 @@
-# [Django Modernize](https://github.com/app-generator/django-modernize)
+# [Django Modernize PRO](https://github.com/app-generator/django-modernize-pro)
 
-Open-source **Django** project crafted on top of **Modernize**, an open-source `Bootstrap 5` design from [AdminMart](https://adminmart.com/?ref=1).
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Material Material` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
+**Django Dashboard** crafted by `AppSeed` on top of a modern design. **Modernize PRO** is a premium `Bootstrap 5` designed by [AdminMart](https://adminmart.com/?ref=1) that comes with feature-rich pages and developer-centric code components. This design provides many prebuilt admin layouts which give you the best selection choice for a modern dashboard.
 
-- 👉 [Django Modernize](#) - `Product page` (soon)
-- 👉 [Django Modernize](https://django-modernize.onrender.com/) - `LIVE Demo`
+> **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
+
+- 👉 [Django Modernize PRO](#) - `Product page` (soon)
+- 👉 [Django Modernize PRO](https://django-modernize-pro.onrender.com/) - `LIVE Demo`
 
 <br />
 
 > Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ Theme: [Django Admin Modernize](https://github.com/app-generator/django-admin-modernize), **designed by [AdminMart](https://adminmart.com/?ref=1)**
+- ✅ Theme: [Django Admin Modernize](https://github.com/app-generator/django-admin-modernize-pro), **designed by [AdminMart](https://adminmart.com/?ref=1)**
   - `can be used in any Django project` (new or legacy)
 - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
 - 🚀 `Deployment` 
@@ -19,7 +20,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-![Modernize - Bootstrap 5 design](https://user-images.githubusercontent.com/51070104/235424939-6b5b1d1d-0832-457a-82a9-599ba532da52.jpg)
+![Modernize PRO - Thumb Image](https://github.com/app-generator/dummy/assets/51070104/6b1d21c2-5e26-4708-bcc5-7958e7f49d3d)
 
 <br />
 
@@ -28,8 +29,20 @@ The product is designed to deliver the best possible user experience with highly
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-modernize.git
-$ cd django-modernize
+$ git clone https://github.com/app-generator/django-modernize-pro.git
+$ cd django-modernize-pro
+```
+
+<br />
+
+> 👉 Export `GITHUB_TOKEN` in the environment. The value is `provided during purchase`. 
+
+This is required because the project has a private REPO dependency: `github.com/app-generator/priv-django-admin-modernize-pro`
+
+```bash
+$ export GITHUB_TOKEN='TOKEN_HERE'  # for Linux, Mac
+$ set GITHUB_TOKEN='TOKEN_HERE'     # Windows CMD
+$ $env:GITHUB_TOKEN = 'TOKEN_HERE'  # Windows powerShell 
 ```
 
 <br />
@@ -115,4 +128,4 @@ At this point, the product should be LIVE.
 <br />
 
 ---
-[Django Modernize](https://github.com/app-generator/django-modernize) - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
+[Django Modernize PRO](https://github.com/app-generator/django-modernize-pro) - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**

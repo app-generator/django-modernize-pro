@@ -2,7 +2,7 @@ django
 gunicorn
 python-dotenv
 whitenoise
-django-admin-modernize==1.0.3
+git+https://${GITHUB_TOKEN}@github.com/app-generator/priv-django-admin-modernize-pro
 
 # psycopg2-binary
 # mysqlclient
