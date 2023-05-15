@@ -6,6 +6,7 @@
 
 - 👉 [Django Modernize PRO](#) - `Product page` (soon)
 - 👉 [Django Modernize PRO](https://django-modernize-pro.onrender.com/) - `LIVE Demo`
+- 👉 [Django Modernize PRO](https://appseed.gitbook.io/django-modernize-pro/) - `Documentation`
 
 <br />
 
