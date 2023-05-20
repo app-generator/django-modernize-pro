@@ -1,12 +1,11 @@
-# [Django Modernize PRO](https://github.com/app-generator/django-modernize-pro)
+# [Django Modernize PRO](https://django-modernize-pro.onrender.com)
 
 **Django Dashboard** crafted by `AppSeed` on top of a modern design. **Modernize PRO** is a premium `Bootstrap 5` designed by [AdminMart](https://adminmart.com/?ref=1) that comes with feature-rich pages and developer-centric code components. This design provides many prebuilt admin layouts which give you the best selection choice for a modern dashboard.
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
-- 👉 [Django Modernize PRO](#) - `Product page` (soon)
-- 👉 [Django Modernize PRO](https://django-modernize-pro.onrender.com/) - `LIVE Demo`
-- 👉 [Django Modernize PRO](https://appseed.gitbook.io/django-modernize-pro/) - `Documentation`
+- 👉 [Modernize PRO Django](https://django-modernize-pro.onrender.com) - `LIVE Demo`
+- 🛒 [Modernize PRO Django](https://appseed.gumroad.com/l/django-modernize-pro) - `Payment Link` (GUMROAD)
 
 <br />
 
@@ -129,4 +128,4 @@ At this point, the product should be LIVE.
 <br />
 
 ---
-[Django Modernize PRO](https://github.com/app-generator/django-modernize-pro) - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
+[Django Modernize PRO](https://django-modernize-pro.onrender.com) - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
